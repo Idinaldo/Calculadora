@@ -19,12 +19,12 @@ Confome desenvolvemos o projeto, atualizar quais tecnologias estamos utilizando
 
 Neste código usamos alguns símbolos que podem (ou não) ser desconhecidos por algumas pessoas
 
-* % = porcentagem;
-* ^ = potenciação;
-* - = subtração;
-* + = adição;
-* , = números decimais;
-* c = limpar a tela;
-* ← = apagar último número
+* '%' = porcentagem;
+* '^' = potenciação;
+* '-' = subtração;
+* '+' = adição;
+* ',' = números decimais;
+* 'c' = limpar a tela;
+* '←' = apagar último número
 
 obs: este é um script de programação estruturada

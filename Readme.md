@@ -9,7 +9,7 @@ Esse é um projeto para criar uma calculadora simples, que resolva problemas com
 Confome desenvolvemos o projeto, atualizar quais tecnologias estamos utilizando
 
 * [Python](https://www.python.org/): Linguagem de programação de sintaxe simples;
-* [[Tkinter](https://docs.python.org/3/library/tk.html): Framework Python usado para criar a interface gráfica do usuário
+* [Tkinter](https://docs.python.org/3/library/tk.html): Framework Python usado para criar a interface gráfica do usuário
 
 ## Requisitos
 

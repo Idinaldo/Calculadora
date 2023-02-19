@@ -26,5 +26,3 @@ Neste código usamos alguns símbolos que podem (ou não) ser desconhecidos por 
 * ',' = números decimais;
 * 'c' = limpar a tela;
 * '←' = apagar último número
-
-obs: este é um script de programação estruturada

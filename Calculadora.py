@@ -149,3 +149,5 @@ botao_igual = Button(corpo, command=lambda: calcular(), text='=', width=5, heigh
 botao_igual.grid(column=3, row=4)
 
 calculadora.mainloop()
+
+# código feito por Idinaldo
